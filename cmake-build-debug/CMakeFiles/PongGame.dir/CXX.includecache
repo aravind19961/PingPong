@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aravindalluri/Desktop/Pong Game/src/Ball.h
+stdio.h
+-
+SDL2/SDL.h
+-
+SDL2_image/SDL_image.h
+-
+string
+-
+L_Texture.h
+/Users/aravindalluri/Desktop/Pong Game/src/L_Texture.h
+Left_player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Left_player.h
+Right_Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Right_Player.h
+Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Player.h
+
+/Users/aravindalluri/Desktop/Pong Game/src/Game.cpp
+Game.h
+/Users/aravindalluri/Desktop/Pong Game/src/Game.h
+thread
+-
+
+/Users/aravindalluri/Desktop/Pong Game/src/Game.h
+L_Texture.h
+/Users/aravindalluri/Desktop/Pong Game/src/L_Texture.h
+Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Player.h
+Left_player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Left_player.h
+Ball.h
+/Users/aravindalluri/Desktop/Pong Game/src/Ball.h
+Right_Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Right_Player.h
+
+/Users/aravindalluri/Desktop/Pong Game/src/L_Texture.h
+stdio.h
+-
+iostream
+-
+SDL2_image/SDL_image.h
+-
+SDL2/SDL.h
+-
+SDL2_ttf/SDL_ttf.h
+-
+
+/Users/aravindalluri/Desktop/Pong Game/src/Left_player.h
+stdio.h
+-
+Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Player.h
+
+/Users/aravindalluri/Desktop/Pong Game/src/Player.h
+stdio.h
+-
+SDL2/SDL.h
+/Users/aravindalluri/Desktop/Pong Game/src/SDL2/SDL.h
+SDL2_image/SDL_image.h
+-
+L_Texture.h
+/Users/aravindalluri/Desktop/Pong Game/src/L_Texture.h
+string
+-
+
+/Users/aravindalluri/Desktop/Pong Game/src/Right_Player.h
+stdio.h
+-
+Player.h
+/Users/aravindalluri/Desktop/Pong Game/src/Player.h
+
+/Users/aravindalluri/Desktop/Pong Game/src/main.cpp
+SDL2/SDL.h
+-
+SDL2_image/SDL_image.h
+-
+stdio.h
+-
+string
+-
+Game.h
+/Users/aravindalluri/Desktop/Pong Game/src/Game.h
+
