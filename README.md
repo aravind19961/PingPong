@@ -29,4 +29,5 @@
 - Left Player Moves Up and Down with W/S Buttons
 - Right Player Moves Up and Down with Up arrow and Down arrow key respectively
 - Space to Start , Pause and Continue the Game
-# Class Structure (Class Diagram and Explaination) and Methods to notice 
+# Class Structure (Class Diagram And Explaination) And Methods To Notice 
+![Alt Text](class.png)
