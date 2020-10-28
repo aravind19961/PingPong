@@ -25,3 +25,7 @@
 	- Linux: gcc / g++ is installed by default on most Linux distros
 	- Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
 	- Windows: recommend using [MinGW](http://www.mingw.org/)
+# Game Play Controls
+- Left Player Moves Up and Down with W/S Buttons
+- Right Player Moves Up and Down with Up arrow and Down arrow key respectively
+- Space to Start , Pause and Continue the Game
