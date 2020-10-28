@@ -37,3 +37,22 @@
 - Goto Build cd build
 - Follow Commands : cmake .. && make
 - ./PingPong
+# Points Addressed 
+
+- The project demonstrates an understanding of C++ functions and control structures.
+	Across all the classes functions and control statements were used.
+
+- A variety of control structures are used in the project.
+	- In player.cpp line 33 switch control statement is used
+	- In many classes including Player.cpp if-else and if statements were used
+
+- The project accepts user input and processes the input.
+	- In Game.cpp in line 124,147,148 program takes user input and processes it to render the position of the dasher.
+- The project uses smart pointers instead of raw pointers.
+	- In Game.h from line 26- 28 used shared pointers to implement the Ball , Left_player and Right_player objects
+- The project uses Object Oriented Programming techniques.
+	- compositon relation ship in Game.h
+	- Inheritance single parent to child relation ship between Player.h and Left_player,Right_player.
+- Classes use appropriate access specifiers for class members.
+	- All clasess have respective public and private and inheritance from public.
+- Note : No MultiThreading was used. As it was not needed for the small game.
