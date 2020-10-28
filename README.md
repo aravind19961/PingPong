@@ -29,5 +29,11 @@
 - Left Player Moves Up and Down with W/S Buttons
 - Right Player Moves Up and Down with Up arrow and Down arrow key respectively
 - Space to Start , Pause and Continue the Game
-# Class Structure (Class Diagram And Explaination) And Methods To Notice 
+# Class Structure (Class Diagram And Explaination)
 ![Alt Text](class.png)
+# Build Instructions
+- Make sure your project is in Current Working Directory ,  Image and Font Problems occur if not set. Please verify it.
+- Make a Build Directory mkdir build
+- Goto Build cd build
+- Follow Commands : cmake .. && make
+- ./PingPong
